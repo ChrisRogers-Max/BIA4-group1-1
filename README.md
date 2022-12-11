@@ -30,39 +30,47 @@ This software has a Graphical User Interface (GUI). There are two ways to launch
 1. Run the programme by directly clicking the python running button 
 2. In the python terminal: python GUI.py
 
-![alt text](https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image1.png)
+<img src="https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image1.png" width=80% height=80%>
+
 #### Classify X-ray Images
 In the GUI, click the Input Image and upload the chest X-ray image. CCXrDC supports input files of .jpg, .png and .jpeg. 
 Choose the preferred model (VGG11 or CNN model) to classify pneumonia types.
 
-![alt text](https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image2.png)
+<img src="https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image2.png" width=80% height=80%>
+
 Click the Determine button, GUI will return a classification message and corresponding suggestions. If the result is COVID-19, a link to WHO guidance for self-management after COVID-19-related illness will appear on the right.
 
-![alt text](https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image3.png)
+<img src="https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image3.png" width=80% height=80%>
+
 #### Sharpen X-ray Images
 Click the Sharpen button and a processed image will spontaneously appear. Click the Save the image button and you can save the processed image in your selected path.
 
-![alt text](https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image4.png)
+<img src="https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image4.png" width=80% height=80%>
+
 #### Segment X-ray Images
 Click the Segment button and a processed image will spontaneously appear. Click the Save the image button and you can save the processed image in your selected path.
 
-![alt text](https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image5.png)
+<img src="https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image5.png" width=80% height=80%>
+
 #### Video Tutorial (Help)
 In the GUI, click the HELP button to watch a video tutorial.
 
-![alt text](https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image6.png)
+<img src="https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image6.png" width=80% height=80%>
+
 #### About us
 Right-click the GUI to know us.
 
-![alt text](https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image7.png)
-![alt text](https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image8.png)
+<img src="https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image7.png" width=80% height=80%>
+<img src="https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image8.png" width=80% height=80%>
+
 #### Quit
 Click QUIT to close the program.
 #### Warning/Conformation message
 If no image is loaded or no model is chosen, a warning message will appear. 
 A confirmation message will also appear before quitting the software by clicking the "x" button at the upper corner of the interface.
 
-![alt text](https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image9.png)
-![alt text](https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image10.png)
+<img src="https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image9.png" width=80% height=80%>
+<img src="https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image10.png" width=80% height=80%>
+
 #### Acknowledgements
 CCXrDC thanks all used third-party libraries and previous works of Convolutional network construction.
