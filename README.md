@@ -73,4 +73,4 @@ A confirmation message will also appear before quitting the software by clicking
 <img src="https://github.com/ljq1902/BIA4-group1/blob/main/picture/images/image10.png" width=80% height=80%>
 
 #### Acknowledgements
-CCXrDC thanks all used third-party libraries and previous works of Convolutional network construction.
+CCXrDC thanks all used third-party libraries and previous works of Convolutional network construction..
